@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">guess_number</string>
+    <string name="reset">重置</string>
+    <string name="PleaseGuessNumber">請輸入一個數字</string>
+    <string name="guess">猜數字</string>
+</resources>
